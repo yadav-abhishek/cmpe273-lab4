@@ -1,0 +1,98 @@
+2013-11-13 14:19:54,316 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2013-11-13 14:19:54,384 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2013-11-13 14:19:54,386 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2013-11-13 14:20:31,009 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.spinscale.dropwizard:dropwizard-jobs:1.0-SNAPSHOT @ C:\cmpe273\cmpe273-assignment2-Lab4\lib\dropwizard-jobs\pom.xml.
+2013-11-13 14:20:53,912 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:library:0.0.1-SNAPSHOT @ C:\cmpe273\cmpe273-assignment2-Lab4\library\pom.xml.
+2013-11-13 14:20:54,430 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:procurement-service:0.0.1-SNAPSHOT @ C:\cmpe273\cmpe273-assignment2-Lab4\procurement-service\pom.xml.
+2013-11-13 14:21:01,336 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.spinscale.dropwizard:dropwizard-jobs:1.0-SNAPSHOT @ C:\cmpe273\cmpe273-assignment2-Lab4\lib\dropwizard-jobs\pom.xml.
+2013-11-13 14:21:01,336 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /library/src/main/java
+2013-11-13 14:21:01,337 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /library/src/main/resources
+2013-11-13 14:21:01,439 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /library/src/test/java
+2013-11-13 14:21:02,043 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:library:0.0.1-SNAPSHOT @ C:\cmpe273\cmpe273-assignment2-Lab4\library\pom.xml.
+2013-11-13 14:21:02,486 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:procurement-service:0.0.1-SNAPSHOT @ C:\cmpe273\cmpe273-assignment2-Lab4\procurement-service\pom.xml.
+2013-11-13 14:21:06,093 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dropwizard-jobs/src/main/java
+2013-11-13 14:21:06,127 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dropwizard-jobs/src/test/java
+2013-11-13 14:21:07,308 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /procurement-service/src/main/java
+2013-11-13 14:21:07,308 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /procurement-service/src/test/java
+2013-11-13 14:21:08,314 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 44 sec
+2013-11-13 14:21:11,594 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-11-13 14:21:11,596 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-11-13 14:21:22,326 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.spinscale.dropwizard:dropwizard-jobs:1.0-SNAPSHOT @ C:\cmpe273\cmpe273-assignment2-Lab4\lib\dropwizard-jobs\pom.xml.
+2013-11-13 14:21:22,927 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:21:22,928 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\lib\dropwizard-jobs\src\main\resources
+2013-11-13 14:21:22,930 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:21:22,930 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\lib\dropwizard-jobs\src\test\resources
+2013-11-13 14:21:24,486 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:library:0.0.1-SNAPSHOT @ C:\cmpe273\cmpe273-assignment2-Lab4\library\pom.xml.
+2013-11-13 14:21:24,955 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:21:24,982 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2013-11-13 14:21:25,012 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:21:25,012 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 14:21:25,480 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:procurement-service:0.0.1-SNAPSHOT @ C:\cmpe273\cmpe273-assignment2-Lab4\procurement-service\pom.xml.
+2013-11-13 14:21:27,748 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:21:27,749 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\procurement-service\src\main\resources
+2013-11-13 14:21:27,750 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:21:27,750 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\procurement-service\src\test\resources
+2013-11-13 14:26:03,840 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:26:03,841 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\lib\dropwizard-jobs\src\main\resources
+2013-11-13 14:26:03,842 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:26:03,842 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\lib\dropwizard-jobs\src\test\resources
+2013-11-13 14:26:03,853 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:26:03,856 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-13 14:26:03,858 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:26:03,858 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 14:26:03,872 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:26:03,873 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\procurement-service\src\main\resources
+2013-11-13 14:26:03,874 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:26:03,874 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\procurement-service\src\test\resources
+2013-11-13 14:35:49,640 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:35:49,649 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2013-11-13 14:35:49,652 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:35:49,653 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 14:44:38,804 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:44:38,813 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2013-11-13 14:44:38,817 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 14:44:38,818 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 15:15:56,160 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 15:15:56,239 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-11-13 15:15:56,286 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 15:15:56,286 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 15:34:33,451 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 15:34:33,452 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-11-13 15:34:33,456 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 15:34:33,456 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 15:48:49,016 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 15:48:49,018 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-11-13 15:48:49,021 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 15:48:49,022 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 15:58:45,434 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 15:58:45,438 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2013-11-13 15:58:45,441 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 15:58:45,441 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 15:58:52,076 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 15:58:52,080 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2013-11-13 15:58:52,082 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 15:58:52,083 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 16:01:22,947 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 16:01:22,948 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-11-13 16:01:22,953 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 16:01:22,954 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 16:13:36,215 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 16:13:36,216 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-11-13 16:13:36,220 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 16:13:36,220 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 16:14:36,462 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 16:14:36,463 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-11-13 16:14:37,030 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 16:14:37,031 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 16:31:40,778 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 16:31:40,780 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-11-13 16:31:40,787 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 16:31:40,788 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 17:03:52,696 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 17:03:52,698 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-11-13 17:03:52,706 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 17:03:52,707 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
+2013-11-13 17:07:07,302 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 17:07:07,303 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2013-11-13 17:07:07,306 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-13 17:07:07,306 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273\cmpe273-assignment2-Lab4\library\src\test\resources
